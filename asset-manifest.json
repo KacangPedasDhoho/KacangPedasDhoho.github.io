@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9e9b0af.chunk.css",
+    "main.js": "/static/js/main.8b1404b5.chunk.js",
+    "main.js.map": "/static/js/main.8b1404b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d33bf5e0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d33bf5e0.js.map",
+    "static/js/2.79a6f2b4.chunk.js": "/static/js/2.79a6f2b4.chunk.js",
+    "static/js/2.79a6f2b4.chunk.js.map": "/static/js/2.79a6f2b4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b8f2d9509b3238c9d54197801f808a84.js": "/precache-manifest.b8f2d9509b3238c9d54197801f808a84.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c9e9b0af.chunk.css.map": "/static/css/main.c9e9b0af.chunk.css.map",
+    "static/js/2.79a6f2b4.chunk.js.LICENSE.txt": "/static/js/2.79a6f2b4.chunk.js.LICENSE.txt",
+    "static/media/IMG_2046.JPG": "/static/media/IMG_2046.6721a304.JPG",
+    "static/media/gambar1.JPG": "/static/media/gambar1.6116bc25.JPG",
+    "static/media/gambar2.JPG": "/static/media/gambar2.e4988921.JPG",
+    "static/media/gambar3.JPG": "/static/media/gambar3.e4988921.JPG",
+    "static/media/gambar4.JPG": "/static/media/gambar4.a85cf8dd.JPG",
+    "static/media/gambar5.JPG": "/static/media/gambar5.f1e030ef.JPG",
+    "static/media/gambar6.JPG": "/static/media/gambar6.675123f1.JPG",
+    "static/media/logo dhoho.png": "/static/media/logo dhoho.d20919a0.png",
+    "static/media/tokopedia.png": "/static/media/tokopedia.8b47f677.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d33bf5e0.js",
+    "static/js/2.79a6f2b4.chunk.js",
+    "static/css/main.c9e9b0af.chunk.css",
+    "static/js/main.8b1404b5.chunk.js"
+  ]
+}
